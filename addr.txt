@@ -1,0 +1,8 @@
+https://gisgeography.com/latitude-longitude-coordinates/
+https://www.google.com/search?client=ubuntu&channel=fs&q=latitude+and+longitude+to+2d+coordinates&ie=utf-8&oe=utf-8
+https://stackoverflow.com/questions/1369512/converting-longitude-latitude-to-x-y-on-a-map-with-calibration-points
+https://www.google.com/search?client=ubuntu&hs=g58&channel=fs&ei=u5GLXJaMB467gwePp6bIDA&q=project+2d+map+to+a+circle&oq=project+2d+map+to+a+circle&gs_l=psy-ab.3...265468.272757..272897...0.0..0.89.1598.26......0....1..gws-wiz.......0i131j0j0i67j0i22i30j0i19j0i22i30i19j33i22i29i30j33i21.5W5COFLId3M
+https://en.wikipedia.org/wiki/Stereographic_projection
+https://stackoverflow.com/questions/50236306/project-2d-points-onto-circle-curve
+https://www.google.com/search?client=ubuntu&hs=4Yo&channel=fs&ei=1pOLXJDNCeSsgweKmIaADA&q=sphere+mapping+formula&oq=sphere+mapping+formula&gs_l=psy-ab.3..0i22i30.22578.24201..24301...0.0..0.76.487.8......0....1..gws-wiz.......0i19j0i22i30i19.HxQuy4YnKnc
+https://stackoverflow.com/questions/33747876/spherical-mapping-calculation-uv-for-point-given-on-sphere-strange-u-values|https://en.wikipedia.org/wiki/UV_mapping
